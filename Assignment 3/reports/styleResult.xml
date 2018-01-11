@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.10">
+<file name="/Users/Jake/Documents/workspace/Assignment 3/src/q1/PalindromeTester.java">
+</file>
+<file name="/Users/Jake/Documents/workspace/Assignment 3/src/q2/RockPaperScissors.java">
+</file>
+<file name="/Users/Jake/Documents/workspace/Assignment 3/src/q3/Address.java">
+</file>
+<file name="/Users/Jake/Documents/workspace/Assignment 3/src/q3/Student.java">
+</file>
+<file name="/Users/Jake/Documents/workspace/Assignment 3/src/q3/TestStudent.java">
+<error line="9" severity="warning" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="13" severity="warning" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="17" severity="warning" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="21" severity="warning" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="25" severity="warning" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="29" severity="warning" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+<error line="33" severity="warning" message="Javadoc has empty description section." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/Jake/Documents/workspace/Assignment 3/src/q4/Primes.java">
+</file>
+</checkstyle>

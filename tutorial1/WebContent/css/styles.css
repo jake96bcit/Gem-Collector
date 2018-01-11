@@ -1,0 +1,25 @@
+/* This is the container block */
+#wrapper {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1 {
+	color: blue; 
+}
+h1 span {
+	  background-color:;
+}
+p {
+	color: black;
+	font: Arial;
+	font-size: 12 px;
+}
+p span {
+	color: red;
+}
+.sunset{
+	background-image: url("../background.jpg");
+	width: 1250px;
+	height: 1250px;
+}
